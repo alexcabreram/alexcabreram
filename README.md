@@ -1,86 +1,51 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-night.png">
+  <img alt="Alex Cabrera — Enterprise AI by day. Rogue stack by night." src="assets/header-day.png">
+</picture>
 
-<!-- Dragon glyph — Seiryū brand -->
-<img src="https://acabreram.me/dragon-nav.png" width="48" alt="Seiryū" />
+**Alex Cabrera**, Copilot Solution Engineer at Microsoft. By day I take Copilot and agents to production, with governance. By night, my agents and I build **Seiryū**, a personal platform of AI agents.
 
-# Alex Cabrera
-
-**Infrastructure · AI · Cloud · Code**
-
-[![acabreram.me](https://img.shields.io/badge/acabreram.me-080C10?style=flat&logo=astro&logoColor=00B4D8)](https://acabreram.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080C10?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alexcabreram)
-[![GitHub](https://img.shields.io/badge/GitHub-080C10?style=flat&logo=github&logoColor=E0EEF5)](https://github.com/alexcabreram)
-
-</div>
+[acabreram.com](https://acabreram.com) · [Writing](https://acabreram.com/blog/) · [LinkedIn](https://www.linkedin.com/in/alexcabreram) · [RSS](https://acabreram.com/rss.xml)
 
 ---
 
-### About
+### Seiryū — the dragon is its agents
 
-Copilot Solution Engineer at Microsoft. I build infrastructure that thinks — self-hosted AI agents, automated monitoring, and cloud-native systems designed to run autonomously.
+Salem is the pearl the dragon holds: it remembers, understands intent and coordinates the rest. Every effect goes through a signed policy (Genbu) and risky operations get an independent review with a veto (Byakko). The South stays empty on purpose.
 
-When I'm not working, I'm probably tinkering with my homelab, mentoring at tech communities, or gaming with my cats nearby.
+| | Agent | What it does |
+|:-:|---|---|
+| 🟡 | **Salem** | Core. Memory, intent and coordination |
+| 🟢 | **Roar** | Turns ideas into blog and LinkedIn drafts. A human decides what ships |
+| 🟢 | **Ideas** | Captures links and ideas on the fly and summarises them |
+| 🟢 | **Lore** | Second brain: what I read and learn, organised and searchable |
+| 🟢 | **Monitor** | Watches the system's health and only speaks up when it matters |
+| 🟢 | **DevOps** | Containers, deployments and infrastructure, always with review |
+| 🟠 | **Builder** | From a task to a reviewed PR, with traceability |
+
+<sub>🟢 Running · 🟠 Building · 🟡 Core — the full map lives at <a href="https://acabreram.com/#mapa">acabreram.com</a>.</sub>
 
 ---
 
-### What I run
+### Writing
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ☁️  Cloud         Azure OpenAI · GitHub Actions · CF   │
-├─────────────────────────────────────────────────────────┤
-│  🖥  Mac Mini      Ollama · OpenClaw · Open WebUI       │
-│  📦  NAS           Prometheus · Grafana · Jellyfin      │
-│  🤖  Telegram Bot  4 AI agents · multi-topic routing    │
-└─────────────────────────────────────────────────────────┘
-```
+- [How I built a self-hosted homelab with local AI agents](https://acabreram.com/blog/homelab-local-ai-agents/) <sub>· Mar 2026 · Seiryū</sub>
 
-Self-hosted homelab with local LLMs (Ollama on Apple Silicon), AI agent orchestration (OpenClaw), full observability stack, and media automation — all managed as code.
+<sub>What works, what breaks and why → <a href="https://acabreram.com/blog/">all writing</a></sub>
 
 ---
 
 ### Certifications
 
-<table>
-<tr>
-<td align="center" width="120">
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/trainer-certification"><br><strong>MCT</strong><br><sub>Microsoft Certified Trainer</sub></a>
-</td>
-<td align="center" width="120">
-<a href="https://www.credly.com/badges/7a3bc1b2-01c6-4706-b121-752162899a74"><br><strong>PL-500</strong><br><sub>Power Automate RPA Developer</sub></a>
-</td>
-<td align="center" width="120">
-<a href="https://www.credly.com/badges/794f4ec5-4b7d-4e90-8e9b-045d1d909f98"><br><strong>PL-900</strong><br><sub>Power Platform Fundamentals</sub></a>
-</td>
-<td align="center" width="120">
-<a href="https://www.credly.com/badges/a6d1fcf4-bda1-46f7-94ea-0d8413097aa2"><br><strong>SC-900</strong><br><sub>Security & Compliance</sub></a>
-</td>
-<td align="center" width="120">
-<a href="https://www.credly.com/badges/0106b689-0ccc-4431-8ac0-65c1b6a7a497"><br><strong>MS-900</strong><br><sub>Microsoft 365 Fundamentals</sub></a>
-</td>
-<td align="center" width="120">
-<a href="https://www.credly.com/badges/a1e3370d-78e9-423a-a9f6-fab2acae18bb"><br><strong>PSM I</strong><br><sub>Professional Scrum Master</sub></a>
-</td>
-</tr>
-</table>
+<a href="https://learn.microsoft.com/credentials/certifications/trainer-certification"><img src="https://acabreram.com/badges/mct.png" height="64" alt="Microsoft Certified Trainer"></a>
+<a href="https://www.credly.com/badges/7a3bc1b2-01c6-4706-b121-752162899a74"><img src="https://acabreram.com/badges/pl-500.png" height="64" alt="PL-500 Power Automate RPA Developer"></a>
+<a href="https://www.credly.com/badges/794f4ec5-4b7d-4e90-8e9b-045d1d909f98"><img src="https://acabreram.com/badges/pl-900.png" height="64" alt="PL-900 Power Platform Fundamentals"></a>
+<a href="https://www.credly.com/badges/a6d1fcf4-bda1-46f7-94ea-0d8413097aa2"><img src="https://acabreram.com/badges/sc-900.png" height="64" alt="SC-900 Security, Compliance and Identity Fundamentals"></a>
+<a href="https://www.credly.com/badges/0106b689-0ccc-4431-8ac0-65c1b6a7a497"><img src="https://acabreram.com/badges/ms-900.png" height="64" alt="MS-900 Microsoft 365 Fundamentals"></a>
+<a href="https://www.credly.com/badges/a1e3370d-78e9-423a-a9f6-fab2acae18bb"><img src="https://acabreram.com/badges/psm-i.png" height="64" alt="Professional Scrum Master I"></a>
+
+Microsoft MVP Alumni · Professor at The Valley Business & Tech School · Speaker and mentor in tech communities
 
 ---
 
-### Stack
-
-![Azure](https://img.shields.io/badge/Azure-080C10?style=flat&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-080C10?style=flat&logo=docker&logoColor=2496ED)
-![TypeScript](https://img.shields.io/badge/TypeScript-080C10?style=flat&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-080C10?style=flat&logo=python&logoColor=3776AB)
-![Astro](https://img.shields.io/badge/Astro-080C10?style=flat&logo=astro&logoColor=FF5D01)
-![Prometheus](https://img.shields.io/badge/Prometheus-080C10?style=flat&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-080C10?style=flat&logo=grafana&logoColor=F46800)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-080C10?style=flat&logo=cloudflare&logoColor=F38020)
-![GitHub Actions](https://img.shields.io/badge/Actions-080C10?style=flat&logo=githubactions&logoColor=2088FF)
-![Tailwind](https://img.shields.io/badge/Tailwind-080C10?style=flat&logo=tailwindcss&logoColor=06B6D4)
-
----
-
-<div align="center">
-<sub>It's not theory — it's practice.</sub>
-</div>
+<sub>Personal views; they don't represent Microsoft. Drafted with agents, shipped by a human.</sub>
