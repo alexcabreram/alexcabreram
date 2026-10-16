@@ -11,7 +11,7 @@
 
 ### Seiryū — the dragon is its agents
 
-Salem is the pearl the dragon holds: it remembers, understands intent and coordinates the rest. Every effect goes through a signed policy (Genbu) and risky operations get an independent review with a veto (Byakko). The South stays empty on purpose.
+Salem is the pearl the dragon holds: it remembers, understands intent and coordinates the rest. Two guardians are being built around it: Genbu, so that every real effect passes a permission boundary and a human gate on its way to signed policy, and Byakko, an independent review with a veto before risky operations. The South stays empty on purpose.
 
 | | Agent | What it does |
 |:-:|---|---|
